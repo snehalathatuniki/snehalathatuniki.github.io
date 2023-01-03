@@ -7,9 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Contact:
   <br>
-  <a href="https://www.linkedin.com/in/snehalatha-tuniki/"><img src="images/linkedin.png" data-canonical-src="images/linkedin.png" width="75" height="75" /></a>
-  <a href="https://github.com/snehalathatuniki"><img src="images/Github.png" data-canonical-src="images/Github.png" width="75" height="75" /></a>
-  <a href="mailto: sneha.vps888@gmail.com"><img src="images/Email.png" data-canonical-src="images/Email.png" width="75" height="75" /></a>  
+  <a href="https://www.linkedin.com/in/snehalatha-tuniki/"><img src="images/linkedin.png" data-canonical-src="images/linkedin.png" width="50" height="50" /></a>
+  <a href="https://github.com/snehalathatuniki"><img src="images/Github.png" data-canonical-src="images/Github.png" width="50" height="50" /></a>
+  <a href="mailto: sneha.vps888@gmail.com"><img src="images/Email.png" data-canonical-src="images/Email.png" width="50" height="50" /></a>  
 
   
 theme: jekyll-theme-minimal
