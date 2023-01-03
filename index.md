@@ -9,10 +9,14 @@ I simplify complex processes to make them more understandable. I became more and
 
 ### My projects
 
+abc
 
 ---
 
 ### Awards and Recognition
+
+xyz
+---
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
