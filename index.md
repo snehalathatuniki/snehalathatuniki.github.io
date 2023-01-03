@@ -1,8 +1,18 @@
-## ABOUT ME
-abc
+## Portfolio
 ---
 
-### Category Name 1 
+### About Me
+
+I simplify complex processes to make them more understandable. I became more and more interested in the World of Data and the answers it holds. And now with new tools, plan to unlock them!
+
+---
+
+### My projects
+
+
+---
+
+### Awards and Recognition
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
