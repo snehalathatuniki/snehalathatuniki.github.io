@@ -7,12 +7,6 @@ I worked as a Data Engineer in TCS for two and a half years. Currently, I am pur
 
 ---
 
-### My projects
-
-abc
-
----
-
 ### Awards and Recognition
 
 xyz
