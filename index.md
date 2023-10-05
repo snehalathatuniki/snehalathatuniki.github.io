@@ -13,7 +13,7 @@ I worked as a Data Engineer in TCS for two and a half years. Currently, I am pur
 <img src="images/Special_Achievement_Award.jpg?raw=true"/>
 ---
 
-### [My Resume](/pdf/Resume.pdf)
+### [My Resume](/pdf/SnehalathaTuniki_Resume.pdf)
 
 ---
 
