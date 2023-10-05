@@ -9,7 +9,8 @@ I worked as a Data Engineer in TCS for two and a half years. Currently, I am pur
 
 ### Awards and Recognition
 
-xyz
+##### Performance Excellence Award
+<img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/blob/master/images/Special_Achievement_Award.jpg"/>
 ---
 
 ### [My Resume](/pdf/Resume.pdf)
