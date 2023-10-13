@@ -18,8 +18,9 @@ I worked as a Data Engineer in TCS for two and a half years. Currently, I am pur
 
 ---
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Sentiment Analysis of Geospatial Data](https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis)
+
+<img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/blob/master/images/Sentiment-analysis-of-Twitter-Social.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
