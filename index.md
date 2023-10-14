@@ -21,7 +21,7 @@
     }
 </style>
 ### Work Experience
-<div align="Center" style="margin: 10px"; class="hoverEffect"> 
+<div align="Center" style="margin: 10px" class="hoverEffect"> 
 <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
   <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124">
 </a>  
