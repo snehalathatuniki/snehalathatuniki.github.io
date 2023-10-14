@@ -7,6 +7,15 @@ I worked as a Data Engineer in TCS for two and a half years. Currently, I am pur
 
 ---
 
+### Work Experience
+
+<div align="center">
+    [![TCS](images/Special_Achievement_Award.jpg?raw=true)](https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis)
+    [![Image 2](image2.jpg)](https://example.com/link2)
+    [![Image 3](image3.jpg)](https://example.com/link3)
+</div>
+
+
 ### Awards and Recognition
 
 ##### Performance Excellence Award
