@@ -1,3 +1,6 @@
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
 ## Portfolio
 ---
 
@@ -52,7 +55,51 @@
 ### [My Resume](/pdf/SnehalathaTuniki_Resume.pdf)
 
 ---
+<div id="demo" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  <!-- Slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="images/img1.jpg" alt="Image 1" width="1100" height="500">
+      <div class="carousel-caption">
+        <h3>Image 1 Title</h3>
+        <p>Image 1 Description</p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="images/img2.jpg" alt="Image 2" width="1100" height="500">
+      <div class="carousel-caption">
+        <h3>Image 2 Title</h3>
+        <p>Image 2 Description</p>
+      </div>   
+    </div>
+    <div class="carousel-item">
+      <img src="images/img3.jpg" alt="Image 3" width="1100" height="500">
+      <div class="carousel-caption">
+        <h3>Image 3 Title</h3>
+        <p>Image 3 Description</p>
+      </div>   
+    </div>
+  </div>
+    <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
 
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 
 
