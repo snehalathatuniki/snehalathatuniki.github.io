@@ -19,20 +19,78 @@
         transform: scale(1.1); 
         cursor: pointer;
     }
+    /* Styles for the Modal */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0,0,0,0.4);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
 </style>
-### Work Experience
-<div align="Center" style="margin: 10px" class="hoverEffect"> 
-<a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
-  <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124">
-</a>  
-  <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
-  <img src="images/tcs.png?raw=true" alt="TCS" width="150">
-</a>  
-  <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
-  <img src="images/maq.png?raw=true" alt="MAQ Software" width="154">
-</a>
+<!-- Your Work Experience Section -->
+<div align="Center" style="margin: 10px"> 
+  <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124" onclick="openModal('ucModal')">
+  <img src="images/tcs.png?raw=true" alt="TCS" width="150" onclick="openModal('tcsModal')">
+  <img src="images/maq.png?raw=true" alt="MAQ Software" width="154" onclick="openModal('maqModal')">
 </div>
 
+<!-- Ultimate Coders Modal -->
+<div id="ucModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('ucModal')">&times;</span>
+    <h3>Ultimate Coders</h3>
+    <p>Work experience at Ultimate Coders...</p>
+    <p>Technologies used: JavaScript, Python...</p>
+  </div>
+</div>
+
+<!-- TCS Modal -->
+<div id="tcsModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('tcsModal')">&times;</span>
+    <h3>TCS</h3>
+    <p>Work experience at TCS...</p>
+    <p>Technologies used: JavaScript, Python...</p>
+  </div>
+</div>
+
+<!-- MAQ Modal -->
+<div id="maqModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('maqModal')">&times;</span>
+    <h3>TCS</h3>
+    <p>Work experience at MAQ...</p>
+    <p>Technologies used: JavaScript, Python...</p>
+  </div>
+</div>
 ---
 ### Awards and Recognition
 
@@ -79,7 +137,14 @@
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
-
+<script> 
+    function openModal(modalId) {
+  document.getElementById(modalId).style.display = "block";
+}
+function closeModal(modalId) {
+  document.getElementById(modalId).style.display = "none";
+}
+</script>
 <!-- jQuery library -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
