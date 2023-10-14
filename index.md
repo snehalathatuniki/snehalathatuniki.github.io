@@ -8,14 +8,14 @@ I worked as a Data Engineer in TCS for two and a half years. Currently, I am pur
 ---
 
 ### Work Experience
-<div align="Center" style="margin: 40px;"> 
+<div align="Center" style="margin: 10px;"> 
 <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
   <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124">
-</a>
-<a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
+</a>  
+  <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
   <img src="images/tcs.png?raw=true" alt="TCS" width="150">
-</a>
-<a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
+</a>  
+  <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
   <img src="images/maq.png?raw=true" alt="MAQ Software" width="154">
 </a>
 </div>
