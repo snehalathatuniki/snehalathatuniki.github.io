@@ -56,7 +56,7 @@
 }
 </style>
 <!-- Your Work Experience Section -->
-<div align="Center" style="margin: 10px"> 
+<div align="Center" style="margin: 10px" class="hoverEffect"> 
   <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124" onclick="openModal('ucModal')">
   <img src="images/tcs.png?raw=true" alt="TCS" width="150" onclick="openModal('tcsModal')">
   <img src="images/maq.png?raw=true" alt="MAQ Software" width="154" onclick="openModal('maqModal')">
