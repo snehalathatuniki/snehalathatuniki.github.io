@@ -1,5 +1,14 @@
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+    .hoverEffect img {
+        transition: transform 0.3s; 
+    }
+    .hoverEffect img:hover {
+        transform: scale(1.1); 
+        cursor: pointer;
+    }
+</style>
 
 ## Portfolio
 ---
@@ -13,7 +22,7 @@
 ---
 
 ### Work Experience
-<div align="Center" style="margin: 10px;"> 
+<div align="Center" style="margin: 10px; class="hoverEffect""> 
 <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
   <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124">
 </a>  
