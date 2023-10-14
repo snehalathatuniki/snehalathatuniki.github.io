@@ -65,10 +65,10 @@
   <!-- Slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="images/img1.jpg" alt="Image 1" width="1100" height="500">
+      <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1100" height="500">
       <div class="carousel-caption">
-        <h3>Image 1 Title</h3>
-        <p>Image 1 Description</p>
+        <h3>Sentiment Analysis of Geospatial Data</h3>
+        <p>Conducted sentiment analysis on tweets related to COP28 to assess global sentiments on renewable energy usage and created geospatial visualizations for cross-country comparisons </p>
       </div>   
     </div>
     <div class="carousel-item">
