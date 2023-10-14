@@ -8,7 +8,7 @@ I worked as a Data Engineer in TCS for two and a half years. Currently, I am pur
 ---
 
 ### Work Experience
-<div align="Center"> 
+<div align="Center" style="margin: 40px;"> 
 <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
   <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124">
 </a>
