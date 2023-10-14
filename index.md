@@ -26,22 +26,6 @@
 </div>
 
 ---
-##### Recent Works
-
-[Sentiment Analysis of Geospatial Data](https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis)
-
-<img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/blob/master/images/Sentiment-analysis-of-Twitter-Social.png?raw=true"/>
-
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 ### Awards and Recognition
 
 ##### Performance Excellence Award
@@ -51,10 +35,9 @@
 <img src="images/Puneet_Appreciation.jpg?raw=true"/>
 
 ---
+##### Recent Works
 
-### [My Resume](/pdf/SnehalathaTuniki_Resume.pdf)
 
----
 <div id="demo" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ul class="carousel-indicators">
@@ -70,12 +53,12 @@
       </div>   
     </div>
     <div class="carousel-item">
-       <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="400">
+       <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
       <div class="carousel-caption">
       </div>   
     </div>
     <div class="carousel-item">
-       <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="250">
+       <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
       <div class="carousel-caption">
       </div>   
     </div>
@@ -95,7 +78,9 @@
 <!-- Bootstrap JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
+---
 
+### [My Resume](/pdf/SnehalathaTuniki_Resume.pdf)
 
 
 
