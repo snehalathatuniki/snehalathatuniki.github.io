@@ -103,7 +103,6 @@
 ---
 ##### Recent Works
 
-
 <div id="demo" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ul class="carousel-indicators">
@@ -113,23 +112,29 @@
   </ul>
   <!-- Slideshow -->
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
+    <div class="carousel-item active hoverEffect">
+      <a href="YOUR_LINK_HERE">
+        <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
+      </a>
       <div class="carousel-caption">
       </div>   
     </div>
-    <div class="carousel-item">
-       <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
+    <div class="carousel-item hoverEffect">
+      <a href="YOUR_LINK_HERE">
+        <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 2" width="1000" height="300">
+      </a>
       <div class="carousel-caption">
       </div>   
     </div>
-    <div class="carousel-item">
-       <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
+    <div class="carousel-item hoverEffect">
+      <a href="YOUR_LINK_HERE">
+        <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 3" width="1000" height="300">
+      </a>
       <div class="carousel-caption">
       </div>   
     </div>
   </div>
-    <!-- Left and right controls -->
+  <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
     <span class="carousel-control-prev-icon"></span>
   </a>
@@ -137,6 +142,7 @@
     <span class="carousel-control-next-icon"></span>
   </a>
 </div>
+
 <script> 
     function openModal(modalId) {
   document.getElementById(modalId).style.display = "block";
