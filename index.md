@@ -3,7 +3,9 @@
 
 ### About Me
 
-I worked as a Data Engineer in TCS for two and a half years. Currently, I am pursuing a career in Artificial Intelligence and Data Science at Loyalist College. I am making a journey into data science with a background in data engineering and business intelligence. So, naturally, I'm keen on extracting actionable insights from raw data. I simplify complex processes to make them easier to comprehend. I consequently developed a growing passion for the World of Data and the solutions it holds. I now intend to unlock them using new tools!
+- I worked as a Data Engineer in TCS for two and a half years. Currently, I am pursuing a career in Artificial Intelligence and Data Science at Loyalist College.
+- I made a journey into data science with a background in data engineering and business intelligence. So, naturally, I'm keen on extracting actionable insights from raw data.
+- I simplify complex processes to make them easier to comprehend. I consequently developed a growing passion for the World of Data and the solutions it holds. I now intend to unlock them using new tools!
 
 ---
 
