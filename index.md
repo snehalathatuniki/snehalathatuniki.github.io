@@ -69,7 +69,7 @@
     <span class="close" onclick="closeModal('ucModal')">&times;</span>
     <h3>Ultimate Coders</h3>
     <p>Work experience at Ultimate Coders...</p>
-    <p>Technologies used: JavaScript, Python...</p>
+    <p>Instructed students on various programming languages and domains, including - Python, Java, Web Design and Development (HTML5, CSS, JavaScript). Took on management responsibilities to ensure effective course delivery and curriculum alignment.</p>
   </div>
 </div>
 
@@ -79,7 +79,7 @@
     <span class="close" onclick="closeModal('tcsModal')">&times;</span>
     <h3>TCS</h3>
     <p>Work experience at TCS...</p>
-    <p>Technologies used: JavaScript, Python...</p>
+    <p><ul><li>Gained proficiency in Data Analytics by employing complex SQL queries and procedures. Performed query tuning for optimal application response.</li><li>Developed Bash shell scripts for extracting metadata, conducting business validations, and triggering PL/SQL stored procedures to populate database tables.</li><li>Did the bidirectional data transfer between Teradata, Snowflake, and Oracle, leveraging AWS as the intermediary. Established and maintained disaster recovery pipelines from one Teradata system to another using Kafka, ensuring data synchronization and replication.</li><li>Successfully migrated from on-premises infrastructure to AWS+Snowflake Cloud Data Platform. Utilized Apache Airflow for seamless connection to Snowflake and implemented Snowflake's data processing layer with Python.</li><li>Demonstrated expertise in the entire software development lifecycle, encompassing requirement analysis, data pipeline design, coding, various testing phases, and deployment.</li></ul></p>
   </div>
 </div>
 
@@ -89,7 +89,9 @@
     <span class="close" onclick="closeModal('maqModal')">&times;</span>
     <h3>TCS</h3>
     <p>Work experience at MAQ...</p>
-    <p>Technologies used: JavaScript, Python...</p>
+    <p>Worked on projects
+based on Business Intelligence, which involved technologies like T-SQL, SSIS, Multidimensional
+Tabular Model(SSAS) and Power BI for reporting.</p>
   </div>
 </div>
 ---
