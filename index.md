@@ -128,8 +128,9 @@
       </div>   
     </div>
     <div class="carousel-item hoverEffect">
-      <a href="">
-        <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 3" width="1000" height="300">
+      <a href="https://github.com/snehalathatuniki/Image-Compression">
+        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/b4e8a146-0e30-4d1c-a396-26df4740a4f5" alt="Image 3" width="1000" height="300">
+
       </a>
       <div class="carousel-caption">
       </div>   
