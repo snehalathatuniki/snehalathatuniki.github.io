@@ -113,21 +113,21 @@
   <!-- Slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active hoverEffect">
-      <a href="YOUR_LINK_HERE">
+      <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
         <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
       </a>
       <div class="carousel-caption">
       </div>   
     </div>
     <div class="carousel-item hoverEffect">
-      <a href="YOUR_LINK_HERE">
-        <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 2" width="1000" height="300">
+      <a href="https://github.com/snehalathatuniki/Music-Genre-Classification">
+        <img src="/images/mu.png?raw=true" alt="Image 2" width="1000" height="300">
       </a>
       <div class="carousel-caption">
       </div>   
     </div>
     <div class="carousel-item hoverEffect">
-      <a href="YOUR_LINK_HERE">
+      <a href="">
         <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 3" width="1000" height="300">
       </a>
       <div class="carousel-caption">
