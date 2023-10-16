@@ -4,6 +4,7 @@
 ## Portfolio
 ---
 
+
 ### About Me
 
 - I worked as a Data Engineer in TCS for two and a half years. Currently, I am pursuing a career in Artificial Intelligence and Data Science at Loyalist College.
@@ -121,7 +122,7 @@
     </div>
     <div class="carousel-item hoverEffect">
       <a href="https://github.com/snehalathatuniki/Music-Genre-Classification">
-        <img src="/images/mu.png?raw=true" alt="Image 2" width="1000" height="300">
+        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/8bf3fe55-f21f-4830-9508-1e6add815292" alt="image"  width="1000" height="300">
       </a>
       <div class="carousel-caption">
       </div>   
