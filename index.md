@@ -112,6 +112,7 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
     <li data-target="#demo" data-slide-to="0" class="active"></li>
     <li data-target="#demo" data-slide-to="1"></li>
     <li data-target="#demo" data-slide-to="2"></li>
+    <li data-target="#demo" data-slide-to="3"></li>
   </ul>
   <!-- Slideshow -->
   <div class="carousel-inner">
@@ -132,7 +133,13 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
     <div class="carousel-item hoverEffect">
       <a href="https://github.com/snehalathatuniki/Image-Compression">
         <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/b4e8a146-0e30-4d1c-a396-26df4740a4f5" alt="Image 3" width="1000" height="300">
-
+      </a>
+      <div class="carousel-caption">
+      </div>   
+    </div>
+    <div class="carousel-item active hoverEffect">
+      <a href="https://github.com/snehalathatuniki/Linkedin_Analysis">
+        <img src="https://github.com/snehalathatuniki/Linkedin_Analysis/assets/43737913/66d24fd5-3926-4e2f-b353-d3d9b67eead6" alt="Image 1" width="1000" height="300">
       </a>
       <div class="carousel-caption">
       </div>   
