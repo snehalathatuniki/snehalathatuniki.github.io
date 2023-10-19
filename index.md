@@ -137,13 +137,6 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
       <div class="carousel-caption">
       </div>   
     </div>
-    <div class="carousel-item active hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Linkedin_Analysis">
-        <img src="https://github.com/snehalathatuniki/Linkedin_Analysis/assets/43737913/66d24fd5-3926-4e2f-b353-d3d9b67eead6" alt="Image 1" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-      </div>   
-    </div>
   </div>
   <!-- Left and right controls -->
   <a class="carousel-control-prev" href="#demo" data-slide="prev">
