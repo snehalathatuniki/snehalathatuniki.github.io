@@ -113,6 +113,7 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
     <li data-target="#demo" data-slide-to="1"></li>
     <li data-target="#demo" data-slide-to="2"></li>
     <li data-target="#demo" data-slide-to="3"></li>
+    <li data-target="#demo" data-slide-to="4"></li>
   </ul>
   <!-- Slideshow -->
   <div class="carousel-inner">
@@ -140,6 +141,13 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
     <div class="carousel-item hoverEffect">
       <a href="https://github.com/snehalathatuniki/Linkedin_Analysis">
         <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/0f6114b4-cf2d-4582-911f-e47e23b2037e" alt="Image 1" width="1000" height="300">
+      </a>
+      <div class="carousel-caption">
+      </div>   
+    </div>
+    <div class="carousel-item hoverEffect">
+      <a href="https://github.com/snehalathatuniki/Comparing_Cosmetics_by_Ingredients">
+        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/7ba54007-ff4a-417b-b0a6-b006c9e68531" alt="Image 1" width="1000" height="300">
       </a>
       <div class="carousel-caption">
       </div>   
