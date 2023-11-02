@@ -115,17 +115,11 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
     <li data-target="#demo" data-slide-to="3"></li>
     <li data-target="#demo" data-slide-to="4"></li>
     <li data-target="#demo" data-slide-to="5"></li>
+    <li data-target="#demo" data-slide-to="6"></li>
   </ul>
   <!-- Slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
-        <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
-      </a>
-      <div class="carousel-caption">
-    </div>   
-    </div>
-    <div class="carousel-item hoverEffect">
       <a href="https://github.com/snehalathatuniki/Music-Genre-Classification">
         <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/8bf3fe55-f21f-4830-9508-1e6add815292" alt="image"  width="1000" height="300">
       </a>
@@ -133,8 +127,15 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
       </div>   
     </div>
     <div class="carousel-item hoverEffect">
-      <a href="https://github.com/snehalathatuniki/Image-Compression">
-        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/b4e8a146-0e30-4d1c-a396-26df4740a4f5" alt="Image 3" width="1000" height="300">
+      <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
+        <img src="/images/Sentiment-analysis-of-Twitter-Social.png?raw=true" alt="Image 1" width="1000" height="300">
+      </a>
+      <div class="carousel-caption">
+    </div>   
+    </div>
+    <div class="carousel-item hoverEffect">
+      <a href="https://github.com/snehalathatuniki/Toonifyme">
+        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/3b116097-3b88-4e3e-8ac0-0da47c589e7f" alt="Image 3" width="1000" height="300">
       </a>
       <div class="carousel-caption">
       </div>   
@@ -149,6 +150,13 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
     <div class="carousel-item hoverEffect">
       <a href="https://github.com/snehalathatuniki/Comparing_Cosmetics_by_Ingredients">
         <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/7ba54007-ff4a-417b-b0a6-b006c9e68531" alt="Image 1" width="1000" height="300">
+      </a>
+      <div class="carousel-caption">
+      </div>   
+    </div>
+    <div class="carousel-item hoverEffect">
+      <a href="https://github.com/snehalathatuniki/Image-Compression">
+        <img src="https://github.com/snehalathatuniki/snehalathatuniki.github.io/assets/43737913/b4e8a146-0e30-4d1c-a396-26df4740a4f5" alt="Image 3" width="1000" height="300">
       </a>
       <div class="carousel-caption">
       </div>   
