@@ -116,6 +116,7 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
     <li data-target="#demo" data-slide-to="4"></li>
     <li data-target="#demo" data-slide-to="5"></li>
     <li data-target="#demo" data-slide-to="6"></li>
+    <li data-target="#demo" data-slide-to="7"></li>
   </ul>
   <!-- Slideshow -->
   <div class="carousel-inner">
@@ -125,6 +126,13 @@ Tabular Model(SSAS) and Power BI for reporting.</p>
       </a>
       <div class="carousel-caption">
       </div>   
+    </div>
+    <div class="carousel-item hoverEffect">
+      <a href="https://github.com/snehalathatuniki/Stock-Market-Analysis">
+        <img src="https://github.com/snehalathatuniki/Stock-Market-Analysis/assets/43737913/6e30f41f-3fd7-41af-9e2e-9fec0ad8a41c" alt="Image 1" width="1000" height="300">
+      </a>
+      <div class="carousel-caption">
+    </div>   
     </div>
     <div class="carousel-item hoverEffect">
       <a href="https://github.com/snehalathatuniki/Twitter_Sentimental_Analysis">
