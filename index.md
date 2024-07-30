@@ -58,9 +58,20 @@
 </style>
 <!-- Your Work Experience Section -->
 <div align="Center" style="margin: 10px" class="hoverEffect"> 
+  <img src="images/UC.png?raw=true" alt="Ezofis" width="124" onclick="openModal('ezofisModal')">
   <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124" onclick="openModal('ucModal')">
   <img src="images/tcs.png?raw=true" alt="TCS" width="150" onclick="openModal('tcsModal')">
   <img src="images/maq.png?raw=true" alt="MAQ Software" width="154" onclick="openModal('maqModal')">
+</div>
+
+<!-- Ezofis Modal -->
+<div id="ucModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('ezofisModal')">&times;</span>
+    <h3>Ezofis</h3>
+    <p>Work experience at Ezofis...</p>
+    <p><ul><li>Boosted Ticketing system performance by 30% through query and table structure optimizations, including subquery elimination and pre-join filtering.</li>Streamlined a unified view across 15 databases, implementing advanced indexing and partitioning strategies to enhance multi-database search efficiency.<li>Led end-to-end development of a Random Forest classifier for client demo, encompassing data preprocessing, feature engineering, model building, and deployment using Streamlit and FastAPI.</li>Engineered secure import/export functionality with dynamic table definition generation, encryption, and decryption processes, streamlining data transfer across systems.<li>Conducted POC for SingleStore implementation, integrating Azure pipelines and evaluating ML model performance across platforms.</li><li>Developed queries to identify modified columns in history tables, retrieving changes as JSON objects, and conducted table-level optimizations.</li></ul></p>
+  </div>
 </div>
 
 <!-- Ultimate Coders Modal -->
