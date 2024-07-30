@@ -98,7 +98,7 @@
 <div id="maqModal" class="modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal('maqModal')">&times;</span>
-    <h3>TCS</h3>
+    <h3>MAQ Software</h3>
     <p>Work experience at MAQ...</p>
     <p>Worked on projects
 based on Business Intelligence, which involved technologies like T-SQL, SSIS, Multidimensional
