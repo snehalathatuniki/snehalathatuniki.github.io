@@ -58,14 +58,14 @@
 </style>
 <!-- Your Work Experience Section -->
 <div align="Center" style="margin: 10px" class="hoverEffect"> 
-  <img src="images/UC.png?raw=true" alt="Ezofis" width="124" onclick="openModal('ezofisModal')">
+  <img src="images/ezofis.jpg?raw=true" alt="Ezofis" width="124" onclick="openModal('ezofisModal')">
   <img src="images/UC.png?raw=true" alt="Ultimate Coders" width="124" onclick="openModal('ucModal')">
   <img src="images/tcs.png?raw=true" alt="TCS" width="150" onclick="openModal('tcsModal')">
   <img src="images/maq.png?raw=true" alt="MAQ Software" width="154" onclick="openModal('maqModal')">
 </div>
 
 <!-- Ezofis Modal -->
-<div id="ucModal" class="modal">
+<div id="ezofisModal" class="modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal('ezofisModal')">&times;</span>
     <h3>Ezofis</h3>
